@@ -1,4 +1,5 @@
 1. Zeile änderung (master)
+Änderung 1. Zeile (branch)
 
 Das ist eine neue Datei
 
